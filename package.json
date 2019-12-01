@@ -1,5 +1,5 @@
 {
-  "name": "licenses",
+  "name": "@mnpjs/licenses",
   "version": "1.0.0",
   "main": "list.json",
   "description": "The list and texts of 30 licenses.",
