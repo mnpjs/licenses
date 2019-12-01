@@ -1,14 +1,15 @@
 {
   "name": "licenses",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "list.json",
+  "description": "The list and texts of 30 licenses.",
   "repository": "git@github.com:mnpjs/licenses.git",
   "author": "Anton <anton@adc.sh>",
   "license": "MIT",
   "files": [
     "licenses", "list.json"
   ],
-  "dependencies": {
+  "devDependencies": {
     "@rqt/github": "^1.3.1",
     "rqt": "^4.0.0"
   }
